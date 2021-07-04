@@ -52,6 +52,7 @@ Progress 4gl, Oralce, Php e Delphi
     <li> Hyper-V  </li>
     <li> VMware VSphere  </li>
     <li> CNH (AD)  </li>
+    <li> Veeam backup  </li>
     <li> Disponibilidade para Viagens/Mudanças </li>
 </ul>
 
@@ -62,3 +63,4 @@ Progress 4gl, Oralce, Php e Delphi
     Git Hub:
         <a href="https://github.com/RafaelMussinato" target="_blank">github.com/RafaelMussinato </a><br>    
 </head>
+
