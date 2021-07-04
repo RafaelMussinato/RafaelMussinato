@@ -40,3 +40,7 @@ Manutenção basica banco dados Oracle e Progress (Triggers, Views, Procedures) 
         Cargo: Auxiliar de Escrita Fiscal Auxilio no lançamento de informações de Notas fiscais como compra e venda, fechamento mensal, apuraçoões de impostos como ICMS,PIS,COFINS,IR e o gerenciamento de arquivos fiscais como Sped,GIA e sintegra. <br>
 <br>
 </ul>
+
+# Conhecimentos
+
+Progress 4gl, Oralce, Php e Delphi
