@@ -44,3 +44,13 @@ Manutenção basica banco dados Oracle e Progress (Triggers, Views, Procedures) 
 # Conhecimentos
 
 Progress 4gl, Oralce, Php e Delphi
+
+# Informações adicionais
+<ul> 
+    <li> Banco dados (Oracle, Progress 4gl) </li>
+    <li> Sistemas Pims-Agro, Engeman, TOTVS12 - Datasul módulos(EMS2, EMS5 e HCM)  </li>
+    <li> Hyper-V  </li>
+    <li> VMware VSphere  </li>
+    <li> CNH (AD)  </li>
+    <li> Disponibilidade para Viagens/Mudanças </li>
+</ul>
