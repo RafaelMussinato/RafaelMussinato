@@ -27,3 +27,16 @@ Manutenção basica banco dados Oracle e Progress (Triggers, Views, Procedures) 
      Processos Gerenciais 
 
 </ul>
+
+# Experiencia Profissional
+
+<ul>      
+	<li> 2011/ Atualmente - Cia Melhoramentos Norte do Paraná </li> 
+         Cargo: Analista Programador Pleno <br>
+    <li>2008/2010 – Defence Informática Desenvolvimento de Software. </li>     
+        Cargo: Programador Delphi e suporte técnico. 
+               Desenvolvimento de reports (relatórios de contas a receber, contas a pagar, extrato de contas, cadastros e movimentos). <br>
+    <li>2005/2007 – Escritório União S/S Ltda </li>             
+        Cargo: Auxiliar de Escrita Fiscal Auxilio no lançamento de informações de Notas fiscais como compra e venda, fechamento mensal, apuraçoões de impostos como ICMS,PIS,COFINS,IR e o gerenciamento de arquivos fiscais como Sped,GIA e sintegra. <br>
+<br>
+</ul>
