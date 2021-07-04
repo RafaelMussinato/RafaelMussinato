@@ -54,3 +54,11 @@ Progress 4gl, Oralce, Php e Delphi
     <li> CNH (AD)  </li>
     <li> Disponibilidade para Viagens/Mudanças </li>
 </ul>
+
+# Redes Sociais
+<head>
+    LinkedIn:
+        <a href="https://www.linkedin.com/in/rafael-mussinato-32373aa0/" target="_blank">  Rafael Sacoman Mussinato </a><br>
+    Git Hub:
+        <a href="https://github.com/RafaelMussinato" target="_blank">github.com/RafaelMussinato </a><br>    
+</head>
