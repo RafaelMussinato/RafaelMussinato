@@ -17,3 +17,13 @@ E-mail: rafamussinato@gmail.com <br>
 Profissional na area de TI  Analista programadador desenvolvendo na linguagem Progress 4gl realizando criação, manutenção 
 nos programas no ERP TOTVS12 - Datausl (HCM, EMS2, EMS5), exportação/Importação de dados em arquivos. <br>
 Manutenção basica banco dados Oracle e Progress (Triggers, Views, Procedures) e administraçao da ferramenta de backup VEEAM.
+
+# Formação acadêmica
+
+<ul>
+    <li> Ensino Superior Completo, UNIPAR - Universidade Paranaense </>
+         ADS - Analise Desenvolvimento de Software - 2015
+    <li>Ensino Superior Completo, - UNIPAR -  Universidade Paranaense </>	
+     Processos Gerenciais 
+
+</ul>
